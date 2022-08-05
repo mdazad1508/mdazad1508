@@ -1,16 +1,18 @@
-### Hi there 👋
+<h2 align="center">👋 Hello! I'm Azad.</h2>
+<p align="center">
+  <a href="">Blog</a> •
+  <a href="">Twitter</a>
+</p>
 
-<!--
-**mdazad1508/mdazad1508** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🔭 I’m intern in **Siemens**
+- 🌱 I’m currently learning **Data structures ,Algrothims and React**
+- 📫 How to reach me: (https://www.linkedin.com/in/md-azad-1876291b8/) on LinkedIn
+- ⚡ Higly interested in open source contribution
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-------
+
+
+<!--END_SECTION:waka-->
+
+-------
